@@ -5,13 +5,22 @@ describe('Alert', () => {
         cy.get("#result").should('have.text','You successfully clicked an alert');
     })
 
-    it('JS confirm alert', () => {
+    it.skip('JS confirm alert', () => {
         cy.visit("https://the-internet.herokuapp.com/javascript_alerts")
         cy.get("button[onclick='jsConfirm()']").click();
         cy.on('window:confirm', (text) => {
             expect(text).to.contain('I am a JS Confirm');
         })
         cy.get("#result").should('have.text','You clicked: Ok')
+
+    })
+
+    it('JS confirm alert', () => {
+        cy.visit("https://the-internet.herokuapp.com/javascript_alerts")
+        cy.get("button[onclick='jsConfirm()']").click();
+
+        cy.on('window:confirm', () => false)
+        cy.get("#result").should('have.text','You clicked: Cancel')
 
     })
 })

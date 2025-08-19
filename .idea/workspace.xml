@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8740714d-964e-4d9e-8bb2-6d8f8aaebdf8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/Common/BasePage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/Common/GlobalConstants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageObject/CheckOutPageObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageObject/HeaderPageObject/ContactUsPageObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageObject/HeaderPageObject/HomePageObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageObject/HeaderPageObject/LoginPageObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageObject/HeaderPageObject/ProductPageObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageObject/HeaderPageObject/SignUpPageObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageObject/PaymentPageObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageObject/ProductDeitalPage/BlueTopDetailPO.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageObject/ProductDeitalPage/SleevelessDressDetailPO.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageObject/ShoppingCartPageObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageObject/SideBarPageOject/AllenSollyJuniorBrandPageObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageObject/SideBarPageOject/BabyHugBrandPageObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageObject/SideBarPageOject/BibaBrandPageObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageObject/SideBarPageOject/BrandOfProductPageObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageObject/SideBarPageOject/HAndMBrandPageObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageObject/SideBarPageOject/KookieKidsBrandPageObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageObject/SideBarPageOject/MadameBrandPageObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageObject/SideBarPageOject/MastAndHarbourBrandPageObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageObject/SideBarPageOject/PoloBrandPageObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageUI/BasePageUI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageUI/CheckOutPageUI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageUI/HeaderPageUI/ContactUsPageUI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageUI/HeaderPageUI/HomePageUI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageUI/HeaderPageUI/LoginPageUI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageUI/HeaderPageUI/ProductPageUI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageUI/HeaderPageUI/SignUpPageUI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageUI/PaymentPageUI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageUI/ProductDetailUI/BlueTopDetailUI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageUI/ProductDetailUI/SleevessDressDetailUI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageUI/ShoppingCartPageUI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/Page/PageUI/SideBarBrandPageUI/BrandOfProductPageUi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/e2e/example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/e2e/test2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/support/commands.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/support/commands.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/support/e2e.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/support/e2e.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/crypto.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/crypto.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/fs.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/fs.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/fs/promises.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/fs/promises.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/http2.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/http2.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/inspector.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/inspector.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/module.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/module.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/perf_hooks.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/perf_hooks.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/repl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/repl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/sqlite.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/sqlite.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/stream.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/stream.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/stream/web.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/stream/web.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/test.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/test.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/timers.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/timers.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/ts5.1/compatibility/disposable.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/ts5.1/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/url.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/url.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/util.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/util.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/worker_threads.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/worker_threads.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/zlib.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/zlib.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cypress/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cypress/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cypress/types/cypress.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cypress/types/cypress.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jsonfile/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jsonfile/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jsonfile/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jsonfile/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jsonfile/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jsonfile/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jsonfile/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tmp/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tmp/lib/tmp.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tmp/lib/tmp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tmp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tmp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/undici-types/agent.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/undici-types/agent.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/undici-types/client.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/undici-types/client.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/undici-types/mock-agent.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/undici-types/mock-agent.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/undici-types/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/undici-types/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/undici-types/pool.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/undici-types/pool.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/undici-types/proxy-agent.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/undici-types/proxy-agent.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Cypress E2E Test JS.cy" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="31SO2ug1HicOBFSE4lAJeob2gjn" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-WS-252.23892.411" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8740714d-964e-4d9e-8bb2-6d8f8aaebdf8" name="Changes" comment="" />
+      <created>1755513803940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755513803940</updated>
+      <workItem from="1755513804999" duration="1362000" />
+      <workItem from="1755593615538" duration="3251000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
